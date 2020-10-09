@@ -7,7 +7,7 @@ class Product:
 
 class Customer:
     product = ""
-    gender = "ssss"
+    gender = "s"
     anger = 0
     money = 0
     customer_count = 0
